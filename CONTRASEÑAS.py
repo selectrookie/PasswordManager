@@ -44,7 +44,4 @@ def eliminar(Web):
         print(f"\n¡Se han eliminado las credenciales de: {Web}!")
     else:
         print(f"\nNo se encontró ningún registro para: {Web}")
-
-#
-eliminar("Netflix")
      
